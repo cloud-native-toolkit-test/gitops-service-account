@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
   - base/gitops-service-account-test-sa-rbac.yaml
   - base/gitops-service-account-test-sa-sa.yaml
-  - base/gitops-service-account-test-sa-scc.yaml
